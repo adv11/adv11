@@ -7,6 +7,8 @@
 - **Blog** - [EnggFact](https://enggfact.blogspot.com/)
 - **Dailyhunt** - [adv01](https://m.dailyhunt.in/profile/adv01)
 
+
+![enter image description here](https://github-readme-stats.vercel.app/api?username=adv11&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 <!--
 **adv11/adv11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
