@@ -3,6 +3,10 @@
 
 - 🌱 I’m currently learning Android Development
 - 📫 How to reach me: adv1491714@gmail.com
+- **LinkedIn** - [Akash Deep Vishwakarma](https://www.linkedin.com/in/vishdeep01/)
+**Blog** - [EnggFact](https://enggfact.blogspot.com/)
+**Dailyhunt** - [adv01](https://m.dailyhunt.in/profile/adv01)
+
 <!--
 **adv11/adv11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
