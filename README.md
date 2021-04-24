@@ -1,8 +1,8 @@
 ### Hola, I'm Akash Deep Vishwakarma 👋
 
 
-- 🌱 I’m currently learning Android Development
-- 📫 How to reach me: adv1491714@gmail.com
+- I’m currently learning Android Development
+- How to reach me: adv1491714@gmail.com
 - **LinkedIn** - [Akash Deep Vishwakarma](https://www.linkedin.com/in/vishdeep01/)
 - **Blog** - [EnggFact](https://enggfact.blogspot.com/)
 - **Dailyhunt** - [adv01](https://m.dailyhunt.in/profile/adv01)
