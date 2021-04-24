@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+- 🌱 I’m currently learning Android Development
+- 📫 How to reach me: adv1491714@gmail.com
 <!--
 **adv11/adv11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
