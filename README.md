@@ -12,6 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adv11&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adv11&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 📕 Latest Blogs
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adv11&theme=neon&no-frame=false&no-bg=false&margin-w=4)
 
