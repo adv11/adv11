@@ -16,11 +16,11 @@
 
 ## 📕 Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Servlets — From Basics to Advance!](https://adv01.medium.com/servlets-from-basics-to-advance-ae5a0bd69574?source=rss-b2035d359a8e------2)
 - [Framework vs Library?](https://adv01.medium.com/framework-vs-library-885c944c3050?source=rss-b2035d359a8e------2)
 - [Java 22 Enhancements which will help Developers?](https://adv01.medium.com/java-22-enhancements-which-will-help-developers-01bb0057e31a?source=rss-b2035d359a8e------2)
 - [What should you about Token Based Authentication?](https://adv01.medium.com/what-should-you-about-token-based-authentication-abf493626859?source=rss-b2035d359a8e------2)
 - [What should you know about Components in Angular?](https://adv01.medium.com/what-should-you-know-about-components-in-angular-99a7d6d5bfe0?source=rss-b2035d359a8e------2)
-- [⚠️ You should know this before getting started with Angular?](https://adv01.medium.com/%EF%B8%8F-you-should-know-this-before-getting-started-with-angular-601125a6490d?source=rss-b2035d359a8e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 GitHub Trophies
