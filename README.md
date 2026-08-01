@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=2EA3F2&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Akash+Deep+Vishwakarma;Backend+%7C+Java+%2F+Spring+Boot+Developer;Exploring+GenAI+%26+System+Design;Building+event-driven%2C+production-ready+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=2EA3F2&center=true&vCenter=true&width=900&height=40&lines=Hi+%F0%9F%91%8B%2C+I'm+Akash+Deep+Vishwakarma;Backend+%7C+Java+%2F+Spring+Boot+Developer;Exploring+GenAI+%26+System+Design;Building+event-driven%2C+production-ready+systems" alt="Typing SVG" />
 
 <br/>
 
@@ -97,8 +97,8 @@ I'm a backend-focused engineer building **scalable, event-driven systems** with 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=adv11&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adv11&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api?username=adv11&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=adv11&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adv11&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
@@ -114,11 +114,14 @@ I'm a backend-focused engineer building **scalable, event-driven systems** with 
 </picture>
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=adv11&theme=tokyonight&no-frame=true&margin-w=4&row=1)
+![Followers](https://img.shields.io/github/followers/adv11?style=for-the-badge&logo=github&label=Followers&color=2EA3F2)
+![Graph Stars](https://img.shields.io/github/stars/adv11/Graph?style=for-the-badge&logo=github&label=Graph%20%E2%AD%90&color=yellow)
+![Recursion Stars](https://img.shields.io/github/stars/adv11/RecursionAndBacktracking?style=for-the-badge&logo=github&label=Recursion%20%E2%AD%90&color=yellow)
+![Since](https://img.shields.io/badge/GitHub%20since-2019-2EA3F2?style=for-the-badge&logo=github)
 
 </div>
 
