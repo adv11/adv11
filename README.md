@@ -128,9 +128,9 @@ I'm a backend-focused engineer building **scalable, event-driven systems** with 
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [MCP vs UTCP — Rethinking Tool Integration](https://adv01.medium.com/mcp-vs-utcp-rethinking-tool-integration-cd9d45e9c7e6?source=rss-b2035d359a8e------2)
-- [JSP (Java Server Pages) — From Basics to Advance!](https://adv01.medium.com/jsp-java-server-pages-from-basics-to-advance-35e9de79de73?source=rss-b2035d359a8e------2)
-- [Servlets — From Basics to Advance!](https://adv01.medium.com/servlets-from-basics-to-advance-ae5a0bd69574?source=rss-b2035d359a8e------2)
+- [MCP vs UTCP — Rethinking Tool Integration](https://adv01.medium.com/mcp-vs-utcp-rethinking-tool-integration-cd9d45e9c7e6?source=rss-b2035d359a8e------2)
+- [JSP &lpar;Java Server Pages&rpar; — From Basics to Advance!](https://adv01.medium.com/jsp-java-server-pages-from-basics-to-advance-35e9de79de73?source=rss-b2035d359a8e------2)
+- [Servlets — From Basics to Advance!](https://adv01.medium.com/servlets-from-basics-to-advance-ae5a0bd69574?source=rss-b2035d359a8e------2)
 - [Framework vs Library?](https://adv01.medium.com/framework-vs-library-885c944c3050?source=rss-b2035d359a8e------2)
 - [Java 22 Enhancements which will help Developers?](https://adv01.medium.com/java-22-enhancements-which-will-help-developers-01bb0057e31a?source=rss-b2035d359a8e------2)
 <!-- BLOG-POST-LIST:END -->
